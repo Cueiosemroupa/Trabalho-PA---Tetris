@@ -1,7 +1,7 @@
 # Tetris diferenciado
 participantes - César coelho e Gustavo Antonio / Tema - tetris / 
 
-objetivo - nosso objetivo Fazer um remake do famoso jogo tetris, onde as peças podem ser substituídas por uma imagem a sua escolha. 
+objetivo - nosso objetivo é Fazer um remake do famoso jogo tetris, onde as peças podem ser substituídas por uma imagem a sua escolha. 
 
 funcionamento -
 
