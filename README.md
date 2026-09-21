@@ -12,7 +12,7 @@ Como jogar?
 3. para acelerar a queda da peça use: `seta para baixo`
 4. para rotacionar a peça use: `seta para cima`
    
-Seu objetivo é encaixar as peças para formarem uma linha e assim liberar mais espaço e ganhar pontos, lembre se de evitar o topo, se caso alguma peça entrar em contato com o topo você perde! Divirta-se e boa sorte. 
+Seu objetivo é encaixar as peças para formarem uma linha e assim liberar mais espaço, lembre se de evitar o topo, se caso alguma peça entrar em contato com o topo você perde! Divirta-se e boa sorte. 
 (obs: instale o pygame e rode o programa direto do terminal do windows).
 
 -exemplo tetris diferenciado:
