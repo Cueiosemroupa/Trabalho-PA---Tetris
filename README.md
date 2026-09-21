@@ -1,7 +1,10 @@
 # Tetris diferenciado
-participantes - César coelho e Gustavo Antonio / Tema - tetris / objetivo - Fazer um remake do famoso jogo tetris, onde as peças podem ser substituídas por uma imagem a sua escolha  / 
+participantes - César coelho e Gustavo Antonio / Tema - tetris / 
+
+objetivo - nosso objetivo Fazer um remake do famoso jogo tetris, onde as peças podem ser substituídas por uma imagem a sua escolha. 
 
 funcionamento -
+
 1. lembre se de Instalar o Pygame: `pip install pygame`
 2. adicione uma imagem nomeada: `textura.png` de sua preferência na pasta raiz.
 3. rode o jogo: `python tetris.py`
